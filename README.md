@@ -1,7 +1,7 @@
 # Application based on a microservices architecture
 Microservices created with Spring Framework
 
-To design an application based on a microservices architecture, we have used:
+Application based on microservices architecture, it has been used:
 
 * Domain Driven Design
 * Events with RabbitMQ and Spring AMQP
